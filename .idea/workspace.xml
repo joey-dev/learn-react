@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c078d64e-504a-4e5b-9bec-ec6256508a02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ErrorBoundary/ErrorBoundary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Persons/Cockpit/Cockpit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Persons/Cockpit/Cockpit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Persons/Persons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/auth-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/Aux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/withClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ErrorBoundary/ErrorBoundary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ErrorBoundary/ErrorBoundary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,6 +56,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/containers" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/Persons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="renders without crashing" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -72,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582866141835</updated>
-      <workItem from="1582866143017" duration="9539000" />
+      <workItem from="1582866143017" duration="16984000" />
     </task>
     <servers />
   </component>
@@ -80,6 +107,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1158" y="196" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583126548622">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1158" y="196" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583126548622" />
     <state width="997" height="305" key="GridCell.Tab.0.bottom" timestamp="1582983336259">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -96,5 +127,21 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="997" height="305" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1582983336258" />
+    <state x="913" y="189" width="1007" height="737" key="SettingsEditor" timestamp="1583299316019">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="913" y="189" width="1007" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583299316019" />
+    <state x="1199" y="151" width="426" height="813" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583300954571">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1199" y="151" width="426" height="813" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1583300954571" />
+    <state x="1069" y="250" width="696" height="608" key="find.popup" timestamp="1583298417002">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1069" y="250" width="696" height="608" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583298417002" />
+    <state x="1081" y="262" width="672" height="678" key="search.everywhere.popup" timestamp="1583126562676">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1081" y="262" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583126562676" />
   </component>
 </project>
